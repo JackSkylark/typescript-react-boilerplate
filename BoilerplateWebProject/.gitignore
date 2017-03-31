@@ -1,0 +1,5 @@
+node_modules
+typings
+wwwroot/dist
+App/**/*.js
+*.js.map

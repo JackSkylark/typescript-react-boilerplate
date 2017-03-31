@@ -1,0 +1,6 @@
+C:\Users\John\documents\visual studio 2017\Projects\BoilerplateWebProject\BoilerplateWebProject\bin\Debug\netcoreapp1.1\BoilerplateWebProject.deps.json
+C:\Users\John\documents\visual studio 2017\Projects\BoilerplateWebProject\BoilerplateWebProject\bin\Debug\netcoreapp1.1\BoilerplateWebProject.runtimeconfig.json
+C:\Users\John\documents\visual studio 2017\Projects\BoilerplateWebProject\BoilerplateWebProject\bin\Debug\netcoreapp1.1\BoilerplateWebProject.runtimeconfig.dev.json
+C:\Users\John\documents\visual studio 2017\Projects\BoilerplateWebProject\BoilerplateWebProject\bin\Debug\netcoreapp1.1\BoilerplateWebProject.dll
+C:\Users\John\documents\visual studio 2017\Projects\BoilerplateWebProject\BoilerplateWebProject\obj\Debug\netcoreapp1.1\BoilerplateWebProject.csprojResolveAssemblyReference.cache
+C:\Users\John\documents\visual studio 2017\Projects\BoilerplateWebProject\BoilerplateWebProject\obj\Debug\netcoreapp1.1\BoilerplateWebProject.AssemblyInfo.cs

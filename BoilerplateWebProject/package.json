@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "name": "typescript-react-boilerplate",
+  "scripts": {
+    "build": "webpack --config webpack.config.ts"
+  },
+  "private": true,
+  "dependencies": {
+    "react": "15.4.2",
+    "react-dom": "15.4.2",
+    "typestyle": "1.3.1"
+  },
+  "devDependencies": {
+    "@types/webpack": "2.2.14",
+    "@types/html-webpack-plugin": "2.11.3",
+    "@types/react": "15.0.21",
+    "@types/react-dom": "0.14.23",
+    "typescript": "2.2.2",
+    "ts-node": "3.0.2",
+    "webpack": "2.3.2",
+    "webpack-dev-server": "2.4.2",
+    "html-webpack-plugin": "2.28.0",
+    "babel-loader": "6.4.1",
+    "babel-core": "6.24.0",
+    "babel-polyfill": "6.23.0",
+    "babel-preset-es2015": "6.24.0",
+    "babel-preset-react": "6.23.0",
+    "ts-loader": "2.0.3",
+    "json-loader": "0.5.4"
+  }
+}
